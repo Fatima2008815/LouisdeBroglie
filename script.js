@@ -27,7 +27,7 @@ function updateChart() {
     };
 
     const layout = {
-        title: 'تمثيل موجات دي بليوري',
+        title: 'تمثيل موجات دي بلوري',
         xaxis: { title: 'المسافة (m)' },
         yaxis: { title: 'الإزاحة (m)' },
         plot_bgcolor: '#000',
